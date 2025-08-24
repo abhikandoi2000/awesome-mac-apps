@@ -16,5 +16,5 @@ macOS apps along with what sets each apart
 | --- | --- |
 | [claude code](https://www.anthropic.com/claude-code) | commercial closed-source agent, best agentic coding software out there, sub-agents, tool-calling, expensive |
 | [codex cli](https://github.com/openai/codex) | commercial open-source agent, good alternative to claude code |
-| [gemini cli](https://github.com/openai/codex) | commercial open-source agent, strong alternative to claude code, decent free usage limits |
-| [warp](https://www.warp.dev/terminal) | commercial, requires-login, features: terminal integrated, agent mode, dispatch agents, best if you pay |
+| [gemini cli](https://github.com/google-gemini/gemini-cli) | commercial open-source agent, strong alternative to claude code, decent free usage limits |
+| [warp](https://www.warp.dev/agents) | commercial, requires-login, features: terminal integrated, agent mode, dispatch agents, best if you pay |
