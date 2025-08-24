@@ -18,3 +18,11 @@ macOS apps along with what sets each apart
 | [codex cli](https://github.com/openai/codex) | commercial open-source agent, good alternative to claude code |
 | [gemini cli](https://github.com/google-gemini/gemini-cli) | commercial open-source agent, strong alternative to claude code, decent free usage limits |
 | [warp](https://www.warp.dev/agents) | commercial, requires-login, features: terminal integrated, agent mode, dispatch agents, best if you pay |
+
+## Utility Tools
+
+| Name | Short brief |
+| --- | --- |
+| [numi](https://numi.app/) | beautiful calculator, allows natural calculations like `$20 in euro - 5% discount` |
+| [keepingyouawake](https://keepingyouawake.app/) | prevent your Mac from going to sleep for any duration |
+
