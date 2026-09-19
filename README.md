@@ -26,3 +26,4 @@ macOS apps along with what sets each apart
 | [numi](https://numi.app/) | beautiful calculator, allows natural calculations like `$20 in euro - 5% discount` |
 | [keepingyouawake](https://keepingyouawake.app/) | prevent your Mac from going to sleep for any duration |
 | [monitorcontrol](https://github.com/MonitorControl/MonitorControl#readme) | Control your external display's brightness and contrast, supports DDC and native Apple protocols |
+| [Orkas](https://orkas.ai/?source=gh_abhik) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. |
