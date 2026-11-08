@@ -44,3 +44,4 @@ macOS apps along with what sets each apart
 | [handy](https://github.com/cjpais/handy) | best speech-to-text OSS app for Mac, fully offline, good enough and live transcribe |
 | [monitorcontrol](https://github.com/MonitorControl/MonitorControl#readme) | Control your external display's brightness and contrast, supports DDC and native Apple protocols |
 | [headlamp](https://github.com/kubernetes-sigs/headlamp) | the single most user-friendly interface to manage kubernetes clusters |
+| [httpie](https://github.com/httpie/desktop) | beautifully designed, simple and intuitive app for humans to test APIs, REST and GraphQL |
