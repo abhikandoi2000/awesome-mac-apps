@@ -4,3 +4,4 @@ Please ensure your pull request includes the following:
  - link to download the app (should be a webpage; don't share app store link)
  - why it should be added (or what makes it awesome, in your own words)
  - any unique features or ability that sets this particular app apart from others
+ - raising a PR doesn't guarantee a merge; if I haven't personally tried the app I cannot vouch for it via this repo
