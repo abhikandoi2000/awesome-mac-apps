@@ -10,6 +10,11 @@ macOS apps along with what sets each apart
 | [warp](https://www.warp.dev/terminal) | commercial, requires-login, features: warp features for remote sessions, generating commands, dispatch agents, best if you pay, most powerful |
 | [rex](https://www.superlogical.com/rex/docs/installation) | an incredible & beautiful multiplexer. A work-in-progress |
 
+## Text Editors
+| Name | Short brief |
+| --- | --- |
+| [sublime text](https://www.sublimetext.com/) | the best text editor i've ever used in my life, true north-star of all text editors |
+| [zed](https://zed.dev/) | the second best text editor after sublime text, crafted for speed |
 
 ## Agentic Coding (CLI focused)
 
