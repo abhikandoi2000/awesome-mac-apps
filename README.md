@@ -50,3 +50,4 @@ macOS apps along with what sets each apart
 | [monitorcontrol](https://github.com/MonitorControl/MonitorControl#readme) | Control your external display's brightness and contrast, supports DDC and native Apple protocols |
 | [headlamp](https://github.com/kubernetes-sigs/headlamp) | the single most user-friendly interface to manage kubernetes clusters |
 | [httpie](https://github.com/httpie/desktop) | beautifully designed, simple and intuitive app for humans to test APIs, REST and GraphQL |
+| [headphone control](https://kulaklikkontrol.github.io/) | menu bar control for Sony WH/WF-1000X headphones: noise cancelling/ambient, EQ, battery, without the phone app. free, closed-source, public TestFlight beta |
